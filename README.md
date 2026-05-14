@@ -1,2 +1,2 @@
 # blog-lgpd-web
-Arquivos do repositorio blog-lgpd privado 
+Arquivos do repositorio do blog-lgpd privado 
